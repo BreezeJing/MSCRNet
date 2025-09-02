@@ -1,0 +1,192 @@
+2025-03-13 23:20:37,427 - INFO - Loaded pretrained model from F:\mobelnetV11\250305Scenceflow\best_loss.tar
+2025-03-13 23:21:26,898 - INFO - Adjusted learning rate to 0.001
+2025-03-13 23:22:47,394 - INFO - Adjusted learning rate to 0.001
+2025-03-13 23:48:33,519 - INFO - Epoch [1] Training Loss: 24.5707
+2025-03-13 23:49:31,658 - INFO - Epoch [1] Test 1-px Error: 41.83%, EPE: 2.7909, 3-px Error: 15.08%
+2025-03-13 23:49:32,892 - INFO - Adjusted learning rate to 0.001
+2025-03-14 00:14:06,129 - INFO - Epoch [2] Training Loss: 17.1605
+2025-03-14 00:15:05,493 - INFO - Epoch [2] Test 1-px Error: 39.89%, EPE: 2.1787, 3-px Error: 11.60%
+2025-03-14 00:15:06,837 - INFO - Adjusted learning rate to 0.001
+2025-03-14 00:38:32,591 - INFO - Epoch [3] Training Loss: 15.8326
+2025-03-14 00:39:30,352 - INFO - Epoch [3] Test 1-px Error: 40.81%, EPE: 2.0077, 3-px Error: 10.13%
+2025-03-14 00:39:33,035 - INFO - Adjusted learning rate to 0.001
+2025-03-14 01:02:13,541 - INFO - Epoch [4] Training Loss: 14.8145
+2025-03-14 01:03:16,533 - INFO - Epoch [4] Test 1-px Error: 27.42%, EPE: 1.7996, 3-px Error: 9.73%
+2025-03-14 01:03:18,921 - INFO - Adjusted learning rate to 0.001
+2025-03-14 01:25:53,961 - INFO - Epoch [5] Training Loss: 13.8965
+2025-03-14 01:26:55,985 - INFO - Epoch [5] Test 1-px Error: 25.36%, EPE: 1.6484, 3-px Error: 8.69%
+2025-03-14 01:26:57,503 - INFO - Adjusted learning rate to 0.001
+2025-03-14 01:48:47,017 - INFO - Epoch [6] Training Loss: 13.3786
+2025-03-14 01:49:50,093 - INFO - Epoch [6] Test 1-px Error: 26.30%, EPE: 2.3692, 3-px Error: 10.38%
+2025-03-14 01:49:51,581 - INFO - Adjusted learning rate to 0.001
+2025-03-14 02:12:36,029 - INFO - Epoch [7] Training Loss: 12.4010
+2025-03-14 02:13:40,348 - INFO - Epoch [7] Test 1-px Error: 23.10%, EPE: 1.8731, 3-px Error: 8.46%
+2025-03-14 02:13:41,834 - INFO - Adjusted learning rate to 0.001
+2025-03-14 02:36:47,670 - INFO - Epoch [8] Training Loss: 12.4976
+2025-03-14 02:37:53,970 - INFO - Epoch [8] Test 1-px Error: 22.83%, EPE: 2.1312, 3-px Error: 8.47%
+2025-03-14 02:37:55,138 - INFO - Adjusted learning rate to 0.001
+2025-03-14 03:00:47,495 - INFO - Epoch [9] Training Loss: 11.7993
+2025-03-14 03:01:54,471 - INFO - Epoch [9] Test 1-px Error: 25.34%, EPE: 1.5664, 3-px Error: 8.16%
+2025-03-14 03:01:55,705 - INFO - Adjusted learning rate to 0.001
+2025-03-14 03:24:49,803 - INFO - Epoch [10] Training Loss: 11.1660
+2025-03-14 03:25:57,501 - INFO - Epoch [10] Test 1-px Error: 23.08%, EPE: 1.3848, 3-px Error: 7.21%
+2025-03-14 03:25:58,865 - INFO - Adjusted learning rate to 0.001
+2025-03-14 03:46:57,867 - INFO - Epoch [11] Training Loss: 11.9605
+2025-03-14 03:47:58,786 - INFO - Epoch [11] Test 1-px Error: 22.93%, EPE: 1.7749, 3-px Error: 8.47%
+2025-03-14 03:47:59,857 - INFO - Adjusted learning rate to 0.001
+2025-03-14 04:09:00,050 - INFO - Epoch [12] Training Loss: 11.0843
+2025-03-14 04:10:09,090 - INFO - Epoch [12] Test 1-px Error: 25.04%, EPE: 1.4082, 3-px Error: 7.34%
+2025-03-14 04:10:10,823 - INFO - Adjusted learning rate to 0.001
+2025-03-14 04:32:35,368 - INFO - Epoch [13] Training Loss: 10.7421
+2025-03-14 04:33:41,490 - INFO - Epoch [13] Test 1-px Error: 30.93%, EPE: 1.8997, 3-px Error: 9.27%
+2025-03-14 04:33:42,981 - INFO - Adjusted learning rate to 0.001
+2025-03-14 04:56:21,041 - INFO - Epoch [14] Training Loss: 10.4370
+2025-03-14 04:57:29,897 - INFO - Epoch [14] Test 1-px Error: 37.48%, EPE: 1.8015, 3-px Error: 10.30%
+2025-03-14 04:57:31,372 - INFO - Adjusted learning rate to 0.001
+2025-03-14 05:20:10,362 - INFO - Epoch [15] Training Loss: 10.1979
+2025-03-14 05:21:16,840 - INFO - Epoch [15] Test 1-px Error: 18.23%, EPE: 1.5907, 3-px Error: 6.70%
+2025-03-14 05:21:18,381 - INFO - Adjusted learning rate to 0.001
+2025-03-14 05:44:45,891 - INFO - Epoch [16] Training Loss: 10.3587
+2025-03-14 05:45:54,094 - INFO - Epoch [16] Test 1-px Error: 19.42%, EPE: 1.5845, 3-px Error: 7.12%
+2025-03-14 05:45:55,472 - INFO - Adjusted learning rate to 0.001
+2025-03-14 06:08:32,806 - INFO - Epoch [17] Training Loss: 10.0443
+2025-03-14 06:09:43,933 - INFO - Epoch [17] Test 1-px Error: 32.15%, EPE: 1.6676, 3-px Error: 7.60%
+2025-03-14 06:09:45,339 - INFO - Adjusted learning rate to 0.001
+2025-03-14 06:32:47,574 - INFO - Epoch [18] Training Loss: 9.9174
+2025-03-14 06:33:55,196 - INFO - Epoch [18] Test 1-px Error: 22.15%, EPE: 1.6155, 3-px Error: 7.41%
+2025-03-14 06:33:56,446 - INFO - Adjusted learning rate to 0.001
+2025-03-14 06:56:37,402 - INFO - Epoch [19] Training Loss: 9.8405
+2025-03-14 06:57:41,737 - INFO - Epoch [19] Test 1-px Error: 17.58%, EPE: 1.1335, 3-px Error: 6.06%
+2025-03-14 06:57:43,294 - INFO - Adjusted learning rate to 0.001
+2025-03-14 07:20:31,255 - INFO - Epoch [20] Training Loss: 9.9789
+2025-03-14 07:21:38,214 - INFO - Epoch [20] Test 1-px Error: 22.40%, EPE: 1.5222, 3-px Error: 6.26%
+2025-03-14 07:21:39,144 - INFO - Adjusted learning rate to 0.001
+2025-03-14 07:44:24,243 - INFO - Epoch [21] Training Loss: 10.0835
+2025-03-14 07:45:32,509 - INFO - Epoch [21] Test 1-px Error: 20.48%, EPE: 1.2294, 3-px Error: 7.10%
+2025-03-14 07:45:33,735 - INFO - Adjusted learning rate to 0.001
+2025-03-14 08:08:05,366 - INFO - Epoch [22] Training Loss: 9.4033
+2025-03-14 08:09:10,755 - INFO - Epoch [22] Test 1-px Error: 15.40%, EPE: 1.1087, 3-px Error: 5.35%
+2025-03-14 08:09:12,318 - INFO - Adjusted learning rate to 0.001
+2025-03-14 08:31:51,286 - INFO - Epoch [23] Training Loss: 9.3933
+2025-03-14 08:32:56,792 - INFO - Epoch [23] Test 1-px Error: 15.50%, EPE: 1.1011, 3-px Error: 5.79%
+2025-03-14 08:32:58,610 - INFO - Adjusted learning rate to 0.001
+2025-03-14 08:55:27,457 - INFO - Epoch [24] Training Loss: 9.1776
+2025-03-14 08:56:33,642 - INFO - Epoch [24] Test 1-px Error: 17.19%, EPE: 1.0736, 3-px Error: 5.77%
+2025-03-14 08:56:34,823 - INFO - Adjusted learning rate to 0.001
+2025-03-14 09:19:08,593 - INFO - Epoch [25] Training Loss: 9.1870
+2025-03-14 09:20:20,029 - INFO - Epoch [25] Test 1-px Error: 17.55%, EPE: 1.2994, 3-px Error: 6.17%
+2025-03-14 09:20:21,486 - INFO - Adjusted learning rate to 0.001
+2025-03-14 09:42:42,145 - INFO - Epoch [26] Training Loss: 9.3034
+2025-03-14 09:43:51,260 - INFO - Epoch [26] Test 1-px Error: 27.67%, EPE: 1.5216, 3-px Error: 7.34%
+2025-03-14 09:43:52,475 - INFO - Adjusted learning rate to 0.001
+2025-03-14 10:06:17,386 - INFO - Epoch [27] Training Loss: 8.9182
+2025-03-14 10:07:26,011 - INFO - Epoch [27] Test 1-px Error: 15.71%, EPE: 1.0504, 3-px Error: 5.18%
+2025-03-14 10:07:28,249 - INFO - Adjusted learning rate to 0.001
+2025-03-14 10:29:19,299 - INFO - Epoch [28] Training Loss: 8.5010
+2025-03-14 10:30:16,686 - INFO - Epoch [28] Test 1-px Error: 14.31%, EPE: 1.0951, 3-px Error: 4.44%
+2025-03-14 10:30:18,230 - INFO - Adjusted learning rate to 0.001
+2025-03-14 10:50:33,501 - INFO - Epoch [29] Training Loss: 8.9878
+2025-03-14 10:51:39,327 - INFO - Epoch [29] Test 1-px Error: 20.84%, EPE: 1.1871, 3-px Error: 6.45%
+2025-03-14 10:51:40,555 - INFO - Adjusted learning rate to 0.001
+2025-03-14 11:13:30,017 - INFO - Epoch [30] Training Loss: 8.6104
+2025-03-14 11:14:34,896 - INFO - Epoch [30] Test 1-px Error: 18.61%, EPE: 1.2877, 3-px Error: 5.74%
+2025-03-14 11:14:36,005 - INFO - Adjusted learning rate to 0.001
+2025-03-14 11:36:32,351 - INFO - Epoch [31] Training Loss: 8.0903
+2025-03-14 11:37:38,374 - INFO - Epoch [31] Test 1-px Error: 14.54%, EPE: 1.3067, 3-px Error: 5.25%
+2025-03-14 11:37:39,922 - INFO - Adjusted learning rate to 0.001
+2025-03-14 12:00:07,790 - INFO - Epoch [32] Training Loss: 8.7241
+2025-03-14 12:01:11,571 - INFO - Epoch [32] Test 1-px Error: 14.63%, EPE: 1.0536, 3-px Error: 4.96%
+2025-03-14 12:01:13,072 - INFO - Adjusted learning rate to 0.001
+2025-03-14 12:23:53,911 - INFO - Epoch [33] Training Loss: 8.7517
+2025-03-14 12:25:02,253 - INFO - Epoch [33] Test 1-px Error: 16.50%, EPE: 1.1465, 3-px Error: 5.63%
+2025-03-14 12:25:03,479 - INFO - Adjusted learning rate to 0.001
+2025-03-14 12:47:57,801 - INFO - Epoch [34] Training Loss: 8.5270
+2025-03-14 12:49:05,046 - INFO - Epoch [34] Test 1-px Error: 14.44%, EPE: 1.0568, 3-px Error: 5.08%
+2025-03-14 12:49:06,094 - INFO - Adjusted learning rate to 0.001
+2025-03-14 13:11:31,340 - INFO - Epoch [35] Training Loss: 8.6381
+2025-03-14 13:12:36,681 - INFO - Epoch [35] Test 1-px Error: 19.31%, EPE: 1.1819, 3-px Error: 5.84%
+2025-03-14 13:12:37,745 - INFO - Adjusted learning rate to 0.001
+2025-03-14 13:35:03,691 - INFO - Epoch [36] Training Loss: 8.2920
+2025-03-14 13:36:09,912 - INFO - Epoch [36] Test 1-px Error: 14.06%, EPE: 0.8791, 3-px Error: 4.60%
+2025-03-14 13:36:11,019 - INFO - Adjusted learning rate to 0.001
+2025-03-14 13:58:45,431 - INFO - Epoch [37] Training Loss: 8.4042
+2025-03-14 13:59:52,580 - INFO - Epoch [37] Test 1-px Error: 14.72%, EPE: 1.3796, 3-px Error: 5.18%
+2025-03-14 13:59:53,861 - INFO - Adjusted learning rate to 0.001
+2025-03-14 14:22:06,953 - INFO - Epoch [38] Training Loss: 8.4570
+2025-03-14 14:23:17,432 - INFO - Epoch [38] Test 1-px Error: 14.01%, EPE: 0.9791, 3-px Error: 4.72%
+2025-03-14 14:23:18,896 - INFO - Adjusted learning rate to 0.001
+2025-03-14 14:45:26,265 - INFO - Epoch [39] Training Loss: 8.3137
+2025-03-14 14:46:37,392 - INFO - Epoch [39] Test 1-px Error: 21.39%, EPE: 1.1914, 3-px Error: 6.25%
+2025-03-14 14:46:38,795 - INFO - Adjusted learning rate to 0.001
+2025-03-14 15:09:13,580 - INFO - Epoch [40] Training Loss: 8.3950
+2025-03-14 15:10:18,934 - INFO - Epoch [40] Test 1-px Error: 16.07%, EPE: 1.0284, 3-px Error: 5.56%
+2025-03-14 15:10:20,311 - INFO - Adjusted learning rate to 0.001
+2025-03-14 15:32:53,841 - INFO - Epoch [41] Training Loss: 7.5809
+2025-03-14 15:33:54,985 - INFO - Epoch [41] Test 1-px Error: 15.73%, EPE: 1.7567, 3-px Error: 5.54%
+2025-03-14 15:33:56,159 - INFO - Adjusted learning rate to 0.001
+2025-03-14 15:56:15,400 - INFO - Epoch [42] Training Loss: 7.9197
+2025-03-14 15:57:25,105 - INFO - Epoch [42] Test 1-px Error: 14.26%, EPE: 1.1936, 3-px Error: 5.15%
+2025-03-14 15:57:27,293 - INFO - Adjusted learning rate to 0.001
+2025-03-14 16:19:34,111 - INFO - Epoch [43] Training Loss: 8.3434
+2025-03-14 16:20:41,079 - INFO - Epoch [43] Test 1-px Error: 12.39%, EPE: 0.7653, 3-px Error: 3.94%
+2025-03-14 16:20:42,436 - INFO - Adjusted learning rate to 0.001
+2025-03-14 16:42:29,590 - INFO - Epoch [44] Training Loss: 7.9360
+2025-03-14 16:43:40,569 - INFO - Epoch [44] Test 1-px Error: 12.33%, EPE: 0.8920, 3-px Error: 4.14%
+2025-03-14 16:43:41,770 - INFO - Adjusted learning rate to 0.001
+2025-03-14 17:05:38,856 - INFO - Epoch [45] Training Loss: 7.5589
+2025-03-14 17:06:48,213 - INFO - Epoch [45] Test 1-px Error: 14.57%, EPE: 1.1280, 3-px Error: 4.94%
+2025-03-14 17:06:49,450 - INFO - Adjusted learning rate to 0.001
+2025-03-14 17:27:09,309 - INFO - Epoch [46] Training Loss: 8.3443
+2025-03-14 17:28:11,023 - INFO - Epoch [46] Test 1-px Error: 13.70%, EPE: 0.8493, 3-px Error: 4.35%
+2025-03-14 17:28:12,115 - INFO - Adjusted learning rate to 0.001
+2025-03-14 17:49:00,568 - INFO - Epoch [47] Training Loss: 7.7835
+2025-03-14 17:50:01,941 - INFO - Epoch [47] Test 1-px Error: 12.48%, EPE: 0.8607, 3-px Error: 4.29%
+2025-03-14 17:50:03,525 - INFO - Adjusted learning rate to 0.001
+2025-03-14 18:11:40,198 - INFO - Epoch [48] Training Loss: 8.1595
+2025-03-14 18:12:49,775 - INFO - Epoch [48] Test 1-px Error: 25.19%, EPE: 1.3741, 3-px Error: 5.83%
+2025-03-14 18:12:50,783 - INFO - Adjusted learning rate to 0.001
+2025-03-14 18:35:01,617 - INFO - Epoch [49] Training Loss: 7.8700
+2025-03-14 18:36:07,006 - INFO - Epoch [49] Test 1-px Error: 14.53%, EPE: 1.0107, 3-px Error: 5.00%
+2025-03-14 18:36:08,107 - INFO - Adjusted learning rate to 0.001
+2025-03-14 18:58:12,055 - INFO - Epoch [50] Training Loss: 7.9538
+2025-03-14 18:59:20,194 - INFO - Epoch [50] Test 1-px Error: 18.14%, EPE: 0.9837, 3-px Error: 5.08%
+2025-03-14 18:59:21,340 - INFO - Adjusted learning rate to 0.001
+2025-03-14 19:21:45,401 - INFO - Epoch [51] Training Loss: 7.7339
+2025-03-14 19:22:53,563 - INFO - Epoch [51] Test 1-px Error: 13.77%, EPE: 0.8898, 3-px Error: 4.39%
+2025-03-14 19:22:54,715 - INFO - Adjusted learning rate to 0.001
+2025-03-14 19:45:40,603 - INFO - Epoch [52] Training Loss: 8.0828
+2025-03-14 19:46:46,498 - INFO - Epoch [52] Test 1-px Error: 13.68%, EPE: 1.0549, 3-px Error: 5.03%
+2025-03-14 19:46:47,721 - INFO - Adjusted learning rate to 0.001
+2025-03-14 20:09:20,138 - INFO - Epoch [53] Training Loss: 7.6469
+2025-03-14 20:10:21,062 - INFO - Epoch [53] Test 1-px Error: 13.00%, EPE: 0.8967, 3-px Error: 4.61%
+2025-03-14 20:10:22,219 - INFO - Adjusted learning rate to 0.001
+2025-03-14 20:33:00,736 - INFO - Epoch [54] Training Loss: 7.7740
+2025-03-14 20:34:09,287 - INFO - Epoch [54] Test 1-px Error: 15.62%, EPE: 1.0500, 3-px Error: 5.27%
+2025-03-14 20:34:10,644 - INFO - Adjusted learning rate to 0.001
+2025-03-14 20:56:10,282 - INFO - Epoch [55] Training Loss: 7.8606
+2025-03-14 20:57:16,095 - INFO - Epoch [55] Test 1-px Error: 12.35%, EPE: 0.8104, 3-px Error: 4.01%
+2025-03-14 20:57:17,343 - INFO - Adjusted learning rate to 0.001
+2025-03-14 21:19:29,840 - INFO - Epoch [56] Training Loss: 7.5941
+2025-03-14 21:20:38,751 - INFO - Epoch [56] Test 1-px Error: 16.06%, EPE: 1.1877, 3-px Error: 5.63%
+2025-03-14 21:20:40,059 - INFO - Adjusted learning rate to 0.001
+2025-03-14 21:42:56,773 - INFO - Epoch [57] Training Loss: 7.4745
+2025-03-14 21:44:01,730 - INFO - Epoch [57] Test 1-px Error: 18.07%, EPE: 1.3641, 3-px Error: 5.96%
+2025-03-14 21:44:02,884 - INFO - Adjusted learning rate to 0.001
+2025-03-14 22:06:12,802 - INFO - Epoch [58] Training Loss: 8.0855
+2025-03-14 22:07:15,518 - INFO - Epoch [58] Test 1-px Error: 15.34%, EPE: 0.9561, 3-px Error: 4.60%
+2025-03-14 22:07:16,674 - INFO - Adjusted learning rate to 0.001
+2025-03-14 22:29:06,001 - INFO - Epoch [59] Training Loss: 7.2646
+2025-03-14 22:30:15,033 - INFO - Epoch [59] Test 1-px Error: 12.30%, EPE: 1.2945, 3-px Error: 4.66%
+2025-03-14 22:30:16,083 - INFO - Adjusted learning rate to 0.001
+2025-03-14 22:52:34,162 - INFO - Epoch [60] Training Loss: 7.6005
+2025-03-14 22:53:39,621 - INFO - Epoch [60] Test 1-px Error: 13.88%, EPE: 0.9637, 3-px Error: 4.78%
+2025-03-14 22:53:41,351 - INFO - Adjusted learning rate to 0.001
+2025-03-14 23:15:37,150 - INFO - Epoch [61] Training Loss: 7.8023
+2025-03-14 23:16:42,438 - INFO - Epoch [61] Test 1-px Error: 12.37%, EPE: 1.1333, 3-px Error: 4.62%
+2025-03-14 23:16:43,842 - INFO - Adjusted learning rate to 0.001
+2025-03-14 23:38:39,927 - INFO - Epoch [62] Training Loss: 7.2636
+2025-03-14 23:40:48,527 - INFO - Loaded pretrained model from F:\mobelnetV11\250313HCDatasets\best_loss.pth
+2025-03-14 23:41:55,875 - INFO - Adjusted learning rate to 0.001
+2025-03-15 00:29:14,087 - INFO - Epoch [1] Training Loss: 7.4069
+2025-03-15 00:31:08,449 - INFO - Epoch [1] Test 1-px Error: 15.48%, EPE: 1.0659, 3-px Error: 4.68%
+2025-03-15 00:31:09,743 - INFO - Adjusted learning rate to 0.001
